@@ -1,0 +1,26 @@
+.Nav {
+    display: flex;
+    background-color: black;
+    height: 80px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.Nav a {
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.Nav-item {
+    padding: 30px !important;
+    transition: 0.5s;
+}
+
+.Nav-item:hover {
+    transform: scale(1.1);
+}

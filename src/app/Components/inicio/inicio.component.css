@@ -1,3 +1,9 @@
-.titulo {
-    margin-top: 70px;
+.Vista-principal {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.Imagen-perfil {
+    width: 300px;
+    border-radius: 10px;
 }
